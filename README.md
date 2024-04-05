@@ -57,7 +57,7 @@ Você precisará de uma assinatura do Azure aprovada para acesso ao serviço Azu
 
 Antes de poder utilizar modelos Azure OpenAI, deve fornecer um recurso Azure OpenAI na sua subscrição do Azure.
 
-1. Entre no portal do Azure.
+1. Entre no [portal do Azure](https://portal.azure.com/).
 2. Crie um recurso **Azure OpenAI** com as seguintes configurações:
 
    - **Assinatura**: _uma assinatura do Azure que foi aprovada para acesso ao serviço Azure OpenAI._
